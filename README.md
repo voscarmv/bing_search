@@ -1,39 +1,17 @@
-# Project Name
+# Ruby on Rails: Getting your feet wet
 
-> One paragraph statement about the project.
-
-Additional description about the project and its features.
-
-## Built With
-
-- Major languages,
-- frameworks,
-- technologies used
+> Solution to the  [exercises](https://www.theodinproject.com/courses/ruby-on-rails/lessons/let-s-get-building) from project: Let's get building
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Replit live demo](#)
 
+### Installation
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+Run the following command: 
+```
+bundler install
+```
 
 ## Authors
 
@@ -42,11 +20,10 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@voscarmv](https://twitter.com/voscarmv)
 - Linkedin: [Oscar Mier](https://www.linkedin.com/in/oscar-mier-072984196/) 
 
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+**Alexis Sanchez**
+- Github: [@Psiale](https://github.com/Psiale)
+- Twitter: [@TFH_](https://twitter.com/TFH_)
+- Linkedin: [Alexis Sanchez](https://www.linkedin.com/in/alexis-gabriel-sánchez-cárcamo-264ba7194/)
 
 ## 🤝 Contributing
 
@@ -60,9 +37,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to [Microverse](www.microverse.org) for the opportunity.
+- Thanks to [The Odin Project](https://www.theodinproject.com/) for the guidance.
+
 
 ## 📝 License
 
