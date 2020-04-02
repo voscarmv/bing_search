@@ -1,10 +1,15 @@
 require 'rest-client'
+
 class BingSearcher
-@resource = 'https://www.bing.com/search?p='
+    def initialize
+        @resource = 'https://www.bing.com/search'
+    end
 
+    def search(query)
+        RestClient.get @resource, {params: {q:query}}
+    end
+end
 
-def search(query)
-    RestClient.get resource, {params: {q:query}}.body
-end
-puts search('Hello')
-end
+searcher = BingSearcher.new
+puts searcher.search('Hello').body
+
